@@ -4,7 +4,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ckbhalaji&label=Profile%20views&color=0e75b6&style=flat" alt="ckbhalaji" /> </p> -->
  
 - 👀 I’m interested in Full-stack development
-- 📫 How to reach me bhalaji3003@gmail.com
+- 📫 How to reach me bhalaji2003@gmail.com
 
 <p align="left">
 </p>
@@ -31,9 +31,11 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   </li>
   <li>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+   &nbsp&nbsp&nbsp&nbsp
+   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40" height="40"/></a>
   </li>
-  
+  </p>
 <!--
 **CKBhalaji/CKBhalaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
